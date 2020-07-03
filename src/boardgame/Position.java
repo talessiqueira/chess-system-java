@@ -2,6 +2,8 @@ package boardgame;
 
 public class Position {
 	
+	// A posição apresenta linha e coluna
+	
 	private int row;
 	private int column;
 	

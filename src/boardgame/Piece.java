@@ -1,6 +1,7 @@
 package boardgame;
 
 public class Piece {
+	// Uma peça contém posição e está em um  tabuleiro
 	
 	protected Position position; // Não quer que ela seja visível na camada de xadrez
 	private Board board;
